@@ -1,6 +1,6 @@
 {
   "name": "next-wxsdk",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Better wechat jssdk based on next toolkit.",
   "homepage": "https://github.com/smalleast/next-wxsdk",
   "main": "dist/next-wxsdk.js",
